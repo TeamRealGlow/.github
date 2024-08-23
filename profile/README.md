@@ -21,14 +21,14 @@
 | 이은송   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 프론트엔드 앱 개발자  | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) <br> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=flat-square&logo=kotlin&logoColor=white) | 앱 어플리케이션 제작                        |
 
 
-<!-- ## 3. 개요
-- **프로젝트 이름**: RealGlow
+## 3. 개요
+- **프로젝트 이름**: RealGlow 
 - **프로젝트 지속 기간**: 2024.04.01 ~ 2024.08.22
 - **서버 제공**: ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 - **OS**: ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-- **개발 언어**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **개발 프레임워크**: ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-- **서버**: ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DB2D?style=flat-square&logo=apachetomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) -->
+- **개발 언어**: ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=flat-square&logo=kotlin&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- **개발 프레임워크**: ![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)  ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+- **서버**: ![Gunicorn](https://img.shields.io/badge/Gunicorn-5996D6?style=flat-square&logo=gunicorn&logoColor=white)
 
 ## 4. 구현 일정
 ### 1 차시
