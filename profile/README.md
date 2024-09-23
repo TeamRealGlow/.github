@@ -12,9 +12,9 @@ RealGlow 어플리케이션을 이용해 소비자들은 제품의 실제 효과
 |:---------|:-------------------------------------|:---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | 강병준   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 교수 | 지도교수             |                                                                                                                                                                    | 
 | 조원우   | HD한국조선해양   | 멘토             |                                                                                                                                                                    | 
-| 유승호   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 팀장<br>인공지능 백엔드 서버 구축 <br>Gunicorn<br> 인공지능 모델학습 <br> 컴퓨터 시연용 GUI 작성  <br>  OpenCV를 이용한 알파블렌딩 알고리즘 작성          | ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) <br> ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | 
-| 박명연   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 프론트엔드 앱 개발  |![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=flat-square&logo=kotlin&logoColor=white) | 
-| 이은송   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 프론트엔드 앱 개발  | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=flat-square&logo=kotlin&logoColor=white) | 
+| 유승호   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 멘티 팀장<br>인공지능 백엔드 서버 구축 <br>Gunicorn<br> 인공지능 모델학습 <br> 컴퓨터 시연용 GUI 작성  <br>  OpenCV를 이용한 알파블렌딩 알고리즘 작성  <br> 서버 아키텍쳐 설계 <br> RestAPI 설계  | ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) <br> ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) <br> ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)<br>![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)<br> ![Gunicorn](https://img.shields.io/badge/Gunicorn-5996D6?style=flat-square&logo=gunicorn&logoColor=white)| 
+| 박명연   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 멘티<br> 프론트엔드 앱 개발  |![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=flat-square&logo=kotlin&logoColor=white) | 
+| 이은송   | 한국 폴리텍 대학 <br> 서울정수캠퍼스 <br> 인공지능소프트웨어과 <br> 2학년 | 멘티<br> 프론트엔드 앱 개발  | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B9?style=flat-square&logo=kotlin&logoColor=white) | 
 
 
 ## 3. 개요
@@ -29,8 +29,10 @@ RealGlow 어플리케이션을 이용해 소비자들은 제품의 실제 효과
 
 - **서버**: ![Gunicorn](https://img.shields.io/badge/Gunicorn-5996D6?style=flat-square&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
  
+## 4. 서버 아키텍쳐 설계
+<img src="img/realglow 아키텍쳐.png" alt="대체 텍스트"> 
 
-## 4. 구현 일정
+## 5. 구현 일정
 ### 1 차시
 | 구분   | 추진 내용                                          | 1주 | 2주 | 3주 | 4주 | 5주 | 6주 | 7주 | 8주 | 9주 | 10주 | 11주 | 12주 | 13주 | 14주 | 15주 | 16주 |
 |--------|----------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -53,7 +55,7 @@ RealGlow 어플리케이션을 이용해 소비자들은 제품의 실제 효과
 | 발표 | 최종 발표        |                                  |     |     |     |     |    |    |    |    |   | ■ |
 
 
-## 5. 구현 핵심 기술
+## 6. 구현 핵심 기술
 ### AI 서버
 - Instance Segmentation <br> Bisnet 를 통한 Segmentation 을 통해 얼굴을 인식하고 얼굴 부위 분할을 통해 세그멘테이션 맵 추출
 <img src="img/faceSegment.png" alt="대체 텍스트" width="600">
@@ -72,38 +74,6 @@ RealGlow 어플리케이션을 이용해 소비자들은 제품의 실제 효과
 
 ## 7. 업데이트 내역
 
-## 8. 후기
-- 팀장 유승호
 
-    프로젝트 기획
-
-    초기 계획: TensorRT를 사용해 모바일 기기에서 Face Segmentation 후 뷰티 제품 합성.
-    문제점: 모델 업데이트 및 성능 차이로 인해 인공지능 추론 서버를 구현하기로 결정.
-    모델 선정
-
-    고려 사항: 정확도, 사전 훈련된 모델 유무, 이해도, CPU 환경에서의 성능.
-    선택한 모델: Bisenet V1, Real-time Semantic Segmentation에 적합.
-    뷰티 제품 합성
-
-    초기 이미지 처리 방법을 개선하여 자연스러운 화장 효과 구현.
-    OpenCV의 addWeighted 함수를 통해 이미지 블러링 및 합성.
-    서버 프레임워크 선정
-
-    Python 기반의 인공지능 추론에 적합한 Flask 선택.
-    Django는 소형 프로젝트에는 무거워 제외.
-    REST API 구현
-
-    데이터 전송 형식: JSON 사용.
-    POST 요청으로 민감한 정보(얼굴 사진) 전송 설계.
-    Base64 인코딩으로 이미지 데이터 안정적 전달.
-    서버 구현
-
-    기존 워크스테이션의 고장으로 Oracle 서버를 임시 사용.
-    Ubuntu 기반 서버 환경 설정 및 Anaconda로 Python 환경 동일하게 구성.
-    PM2로 무중단 서비스 적용하여 안정성 확보.
-
-    프로젝트를 통해 인공지능 서비스의 전체 개요, 구현 방법을 배웠습니다.
-
-
-## 9. Reference
+## 8. Reference
 - 추후 작성 예정
