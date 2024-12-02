@@ -32,7 +32,7 @@ RealGlow 어플리케이션을 이용해 소비자들은 제품의 실제 효과
 - **서버**: ![Gunicorn](https://img.shields.io/badge/Gunicorn-5996D6?style=flat-square&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
  
 ## 4. 서버 아키텍쳐 설계
-<img src="img/realglow 아키텍쳐.png" alt="대체 텍스트"> 
+<img src="img/Group 26.png" alt="대체 텍스트"> 
 
 ## 5. 구현 일정
 ### 1 차시
